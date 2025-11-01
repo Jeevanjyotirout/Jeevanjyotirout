@@ -231,7 +231,7 @@ I believe in:
 
 **📧 Email:** [jeevanjyotirout25@gmail.com](mailto:jeevanjyotirout25@gmail.com)  
 **🌐 Portfolio:** [jeevanjyotirout.github.io](https://jeevanjyotirout.github.io/)  
-**💼 LinkedIn:** [linkedin.com/in/jeevanjyotirout](https://linkedin.com/in/jeevanjyotirout)  
+**💼 LinkedIn:** [linkedin.com/in/jeevan-jyoti-rout-jjr](https://linkedin.com/in/jeevan-jyoti-rout-jjr)  
 **👙 GitHub:** [github.com/Jeevanjyotirout](https://github.com/Jeevanjyotirout)
 
 ---
