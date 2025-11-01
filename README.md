@@ -4,7 +4,7 @@
 I'm a passionate **Python Developer** and **Machine Learning Engineer** with expertise in real-time computer vision, earth science research, and full-stack development. I love building innovative solutions that bridge technology and practical applications.
 
 ### 💻 Technical Skills
-- **Languages:** Python, JavaScript, HTML/CSS, SQL
+- **Languages:** Python, Fortan, SQL
 - **ML/AI:** TensorFlow, PyTorch, OpenCV, Scikit-learn, Computer Vision
 - **Web Development:** Flask, Django, React, Node.js
 - **Tools & Technologies:** Git, Docker, AWS, MongoDB, PostgreSQL
@@ -41,8 +41,7 @@ Dynamic news aggregation and display platform with responsive design, category f
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/jeevanjyotirout)
-- 📧 Email: jeevanjyotirout@example.com
-- 🐦 Twitter: [@jeevanjyotirout](https://twitter.com/jeevanjyotirout)
+- 📧 Email: jeevanjyotirout25@gmail.com
 - 🌐 Portfolio: [jeevanjyotirout.github.io](https://jeevanjyotirout.github.io)
 
 ### 📊 GitHub Stats
