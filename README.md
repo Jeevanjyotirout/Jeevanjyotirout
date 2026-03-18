@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geophysics+Researcher;AI+for+Earth+Sciences;Future+PhD+Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geophysics+Researcher;AI+for+Earth+Sciences;Future+Scientist" />
 # 🌍 Jeevan Jyoti Rout
 
 ## 🔬 About Me
