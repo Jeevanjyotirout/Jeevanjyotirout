@@ -1,5 +1,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geophysics+Researcher;AI+for+Earth+Sciences;Future+Scientist" />
 # 🌍 Jeevan Jyoti Rout
+<h2 align="center">🌍 Interactive Earth Model</h2>
+
+<p align="center">
+  <a href="https://your-username.github.io/geoscience-globe/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch-3D_Earth_Model-blue?style=for-the-badge&logo=google-earth" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-username.github.io/geoscience-globe/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg" width="400"/>
+  </a>
+</p>
 
 ## 🔬 About Me
 - M.S. Geological Sciences @ IISER Kolkata  
