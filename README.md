@@ -23,3 +23,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanjyotirout" />
 <img src="https://raw.githubusercontent.com/Jeevanjyotirout/Jeevanjyotirout/output/github-contribution-grid-snake.svg" />
 <img src="https://komarev.com/ghpvc/?username=Jeevanjyotirout" />
+<img src="https://raw.githubusercontent.com/Jeevanjyotirout/Jeevanjyotirout/output/github-contribution-grid-snake-dark.svg" />
