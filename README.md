@@ -7,13 +7,36 @@
 - Working on Seismology & Remote Sensing  
 
 ---
-<a href="https://github.com/Jeevanjyotirout/Seismology">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Seismology" />
-</a>
+<h2 align="center">🚀 Featured Research & Projects</h2>
 
-<a href="https://github.com/Jeevanjyotirout/Advance-Lithology-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Advance-Lithology-Prediction" />
-</a>
+<p align="center">
+  <a href="https://github.com/Jeevanjyotirout/Seismology">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Seismology&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Jeevanjyotirout/Advance-Lithology-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Advance-Lithology-Prediction&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jeevanjyotirout/RAG-Application-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=RAG-Application-2026&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Jeevanjyotirout/AI-Web-Scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=AI-Web-Scraper&theme=tokyonight" />
+  </a>
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanjyotirout&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Jeevanjyotirout&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanjyotirout&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -22,5 +45,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jeevanjyotirout&show_icons=true)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanjyotirout" />
 <img src="https://raw.githubusercontent.com/Jeevanjyotirout/Jeevanjyotirout/output/github-contribution-grid-snake.svg" />
-<img src="https://komarev.com/ghpvc/?username=Jeevanjyotirout" />
-<img src="https://raw.githubusercontent.com/Jeevanjyotirout/Jeevanjyotirout/output/github-contribution-grid-snake-dark.svg" />
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeevanjyotirout/Jeevanjyotirout/output/github-contribution-grid-snake-dark.svg" />
+</p>/>
