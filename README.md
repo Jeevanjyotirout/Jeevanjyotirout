@@ -7,12 +7,13 @@
 - Working on Seismology & Remote Sensing  
 
 ---
+<a href="https://github.com/Jeevanjyotirout/Seismology">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Seismology" />
+</a>
 
-## 🚀 Projects
-- Seismology  
-- Lithology Prediction  
-- RAG Applications  
-- Web Scrapers  
+<a href="https://github.com/Jeevanjyotirout/Advance-Lithology-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanjyotirout&repo=Advance-Lithology-Prediction" />
+</a>
 
 ---
 
