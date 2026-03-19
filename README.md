@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Geophysics+Researcher;AI+for+Earth+Sciences;Future+Scientist" />
-# 🌍 Jeevan Jyoti Rout
+🌍 Jeevan Jyoti Rout
 <h2 align="center">🌍 Interactive Earth Model</h2>
 
 <p align="center">
