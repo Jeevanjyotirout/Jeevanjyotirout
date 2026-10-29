@@ -26,7 +26,7 @@ I combine field observation, laboratory analysis and quantitative methods to und
 
 ## Selected work
 
-- **Machine-learning lithology prediction from well logs** (CSIR-NGRI, 2024): supervised models for facies discrimination on National Gas Hydrate Program well-log data. See [Advance-Lithology-Prediction](https://github.com/Jeevanjyotirout/Advance-Lithology-Prediction).
+- **Machine-learning lithology prediction from well logs** (CSIR-NGRI, 2024): supervised models for facies discrimination on National Gas Hydrate Program well-log data. Exploratory well-log analysis notebook: [Well-Log-Analysis](https://github.com/Jeevanjyotirout/Well-Log-Analysis).
 - **Chromite exploration and grade assessment** (Odisha Mining Corporation, 2023): drill-core logging, Cr₂O₃ grade and structural analysis, AutoCAD wireframe modelling of ore bodies.
 - **Heatwave and extreme-weather analysis** (India Meteorological Department, 2025): time-series analysis of heatwave and cloudburst patterns over Delhi.
 - **Mohand Foreland Basin study, Dehradun**: sedimentology, facies and paleoflow reconstruction.
